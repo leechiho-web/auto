@@ -3,4 +3,8 @@ Like we used to do.no
 Now You See me.
 Add new line.
 Add new new line.
+<<<<<<< HEAD
 add line from local workspace
+=======
+add line from remote
+>>>>>>> f50fbae8ab649a62ccf287b781a4c226a9b04350
